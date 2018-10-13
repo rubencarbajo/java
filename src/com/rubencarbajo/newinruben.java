@@ -9,4 +9,5 @@ public class newinruben {
 	
 	public String m = "by master";
 
+	public String s = "by ruben";
 }
