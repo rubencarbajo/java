@@ -7,4 +7,5 @@ public class newinruben {
 	//line added by ruben
 	//line added by master
 
+	public String s = "by ruben";
 }
