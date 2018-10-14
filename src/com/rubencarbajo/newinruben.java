@@ -4,9 +4,7 @@ public class newinruben {
 
 	public String master="this is web updated by master again";
 	public String Ruben="This has beeen local updated in ruben branch, again";
-	//line added by ruben
-	//line added by master
-	
+
 	public String m = "by master 2";
 
 	public String s = "by ruben 2";
