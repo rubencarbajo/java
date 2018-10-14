@@ -9,5 +9,5 @@ public class newinruben {
 	
 	public String m = "by master";
 
-	public String s = "by ruben";
+	public String s = "by ruben 2";
 }
